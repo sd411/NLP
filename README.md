@@ -1,4 +1,4 @@
 # NLP
 NLP Projects
 
-1 . Movie Review classifiaction using Tfidf model.
+1 . Movie Review classification using Tfidf model.
