@@ -10,4 +10,5 @@ NLP Projects
 4 . Topic Modelling Using LDA and NMF on quora dataset
 
 5 . Text Generation Using LSTMs (trained on Moby DIck Novel)
-   Download the pretrained model and tokenizer from : https://drive.google.com/drive/folders/14DwEQGGxnoPGiIzhDIDrvEd1MvoMy46u?usp=sharing
+    
+    Download the pretrained model and tokenizer from : https://drive.google.com/drive/folders/14DwEQGGxnoPGiIzhDIDrvEd1MvoMy46u?usp=sharing
