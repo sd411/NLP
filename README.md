@@ -5,4 +5,6 @@ NLP Projects
 
 2 . word2vec using spacy
 
-3 . Sentiment Analysis usnig Vader(Valence Aware Dictionary and sEntiment Reasoner)
+3 . Sentiment Analysis using Vader(Valence Aware Dictionary and sEntiment Reasoner)
+
+4 . Topic Modelling Using LDA and NMF on quora dataset
