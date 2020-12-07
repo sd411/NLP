@@ -12,3 +12,5 @@ NLP Projects
 5 . Text Generation Using LSTMs (trained on Moby Dick Novel)
     
     Download the pretrained model and tokenizer from : https://drive.google.com/drive/folders/14DwEQGGxnoPGiIzhDIDrvEd1MvoMy46u?usp=sharing
+
+6 . ChatBot using end-to-end memory model
